@@ -1,3 +1,3 @@
 import "./scss/main.scss";
 import "./main";
-console.log("index.js");
+// console.log("index.js");
